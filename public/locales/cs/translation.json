@@ -1,0 +1,93 @@
+{
+  "appTitle": "Plánovač Rozvrhu ZČU",
+  "appTitleShort": "Plánovač ZČU",
+  "nav": {
+    "landing": "Úvod",
+    "editor": "Editor Rozvrhu",
+    "faq": "FAQ"
+  },
+  "languageToggle": "Jazyk",
+  "themeToggle": {
+    "light": "Světlý režim",
+    "dark": "Tmavý režim",
+    "lightTooltip": "Přepnout na světlý režim",
+    "darkTooltip": "Přepnout na tmavý režim"
+  },
+  "landingPage": {
+    "hero": {
+      "title": "Plánovač Rozvrhu pro ZČU",
+      "description": "Vytvořte si perfektní studentský rozvrh snadno a rychle. Naše aplikace vám pomůže optimalizovat váš čas na Západočeské univerzitě ještě před oficiálním zápisem do IS/STAG.",
+      "editorButton": "Spustit Editor Rozvrhu",
+      "universityButton": "Web ZČU"
+    },
+    "functions": {
+      "sectionTitle": "Co Vám Aplikace Nabízí?",
+      "intro": "Aplikace Plánovač Rozvrhu ZČU vám pomůže optimalizovat váš čas a připravit se na semestr s následujícími možnostmi:",
+      "func1": {
+        "title": "Plánování Před Zápisem",
+        "desc": "Sestavte si svůj rozvrh ještě před oficiálním termínem zápisu do univerzitního systému IS/STAG. Získejte tak výhodu lepšího plánování a optimalizace vašeho času."
+      },
+      "func2": {
+        "title": "Intuitivní Vizualizace Rozvrhu",
+        "desc": "Zobrazte si přehledně všechny zapsané předměty a jejich rozvrhové akce v průběhu celého týdne. Aplikace klade důraz na srozumitelné uživatelské rozhraní."
+      },
+      "func3": {
+        "title": "Import Předmětů z IS/STAG",
+        "desc": "Načtěte si snadno aktuální data o předmětech a jejich rozvrhových akcích přímo z IS/STAG. Možnost importu dle kódu předmětu nebo vašeho studijního plánu."
+      },
+      "func4": {
+        "title": "Generátor Optimálního Rozvrhu",
+        "desc": "Nechte si automaticky vygenerovat návrhy možných variant rozvrhu. Stačí zvolit vaše preference, jako například volný den, a systém se pokusí najít nejlepší řešení."
+      },
+      "func5": {
+        "title": "Správa Pracovní Plochy",
+        "desc": "Uložte si všechny načtené předměty, aktuálně sestavený rozvrh i vaše osobní preference. Kdykoliv se můžete vrátit a pokračovat v plánování."
+      },
+      "func6": {
+        "title": "Export a Tisk Rozvrhu",
+        "desc": "Vytvořený rozvrh si můžete jednoduše uložit jako obrázek ve formátu PNG pro snadné sdílení, nebo si jej přímo vytisknout pro offline použití."
+      }
+    },
+    "tech": {
+      "sectionTitle": "Postaveno na Moderních Technologiích",
+      "versionLabel": "Verze",
+      "reactDesc": "JavaScriptová knihovna pro dynamická uživatelská rozhraní, zajišťující plynulost a interaktivitu aplikace.",
+      "muiDesc": "Knihovna komponent pro React, která poskytuje robustní a přizpůsobitelné prvky v souladu s Material Designem.",
+      "viteDesc": "Nástroj nové generace pro frontend development, který nabízí bleskurychlé sestavení a okamžitou zpětnou vazbu při vývoji.",
+      "i18nextDesc": "Flexibilní framework pro internacionalizaci, umožňující snadný překlad aplikace do více jazyků."
+    },
+    "author": {
+      "sectionTitle": "O Projektu",
+      "namePlaceholder": "Štěpán Bříza",
+      "summary": "Tento Plánovač Rozvrhu vznikl jako semestrální práce předmětu KIV/UUR s cílem zjednodušit studentům organizaci jejich studijního života a naučení Reactu.",
+      "githubButton": "Projekt na GitHubu"
+    }
+  },
+  "faqPage": {
+    "title": "Často Kladené Otázky",
+    "q1": "Jaký je cíl této aplikace?",
+    "a1": "Aplikace umožňuje studentům ZČU plánovat si rozvrh předmětů před oficiálním zápisem a optimalizovat tak svůj čas.",
+    "q2": "Pro koho je aplikace určena?",
+    "a2": "Primárně pro studenty Západočeské univerzity v Plzni, kteří si mohou svůj rozvrh sestavovat sami."
+  },
+  "editorPage": {
+    "title": "Editor Rozvrhu"
+  },
+  "courseEvent": {
+    "lecture": "Přednáška",
+    "practical": "Cvičení",
+    "seminar": "Seminář",
+    "exam": "Zkouška",
+    "credit": "Zápočet",
+    "monday": "Pondělí",
+    "tuesday": "Úterý",
+    "wednesday": "Středa",
+    "thursday": "Čtvrtek",
+    "friday": "Pátek",
+    "saturday": "Sobota",
+    "sunday": "Neděle",
+    "everyWeek": "Každý týden",
+    "evenWeek": "Sudý týden",
+    "oddWeek": "Lichý týden"
+  }
+}

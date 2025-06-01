@@ -1,0 +1,93 @@
+{
+  "appTitle": "UWB Schedule Planner",
+  "appTitleShort": "UWB Planner",
+  "nav": {
+    "landing": "Home",
+    "editor": "Schedule Editor",
+    "faq": "FAQ"
+  },
+  "languageToggle": "Language",
+  "themeToggle": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "lightTooltip": "Switch to light mode",
+    "darkTooltip": "Switch to dark mode"
+  },
+  "landingPage": {
+    "hero": {
+      "title": "UWB Schedule Planner",
+      "description": "Create your perfect student schedule easily and quickly. Our application helps you optimize your time at the University of West Bohemia even before official enrollment in IS/STAG.",
+      "editorButton": "Launch Schedule Editor",
+      "universityButton": "UWB Website"
+    },
+    "functions": {
+      "sectionTitle": "What Does The App Offer?",
+      "intro": "The UWB Schedule Planner application helps you optimize your time and prepare for the semester with the following capabilities:",
+      "func1": {
+        "title": "Pre-Enrollment Planning",
+        "desc": "Assemble your schedule even before the official enrollment period in the IS/STAG university system. Gain an advantage by better planning and optimizing your time. [cite: 3]"
+      },
+      "func2": {
+        "title": "Intuitive Schedule Visualization",
+        "desc": "Clearly view all your enrolled courses and their scheduled activities throughout the week. The application emphasizes a clear user interface. [cite: 5, 7]"
+      },
+      "func3": {
+        "title": "IS/STAG Course Import",
+        "desc": "Easily load current data about courses and their schedule events directly from IS/STAG. Import options include by course code or your entire study plan. [cite: 4, 41, 73, 74]"
+      },
+      "func4": {
+        "title": "Optimal Schedule Generator",
+        "desc": "Automatically generate suggestions for possible schedule variants. Simply choose your preferences, such as a day off, and the system will try to find the best solution. [cite: 4, 176]"
+      },
+      "func5": {
+        "title": "Workspace Management",
+        "desc": "Save all your loaded courses, the currently assembled schedule, and your personal preferences. You can return anytime and continue planning. [cite: 173, 174, 175]"
+      },
+      "func6": {
+        "title": "Schedule Export and Print",
+        "desc": "Easily save your created schedule as a PNG image for sharing, or print it directly for offline use. [cite: 206]"
+      }
+    },
+    "tech": {
+      "sectionTitle": "Built With Modern Technologies",
+      "versionLabel": "Version",
+      "reactDesc": "A JavaScript library for dynamic user interfaces, ensuring the application's smoothness and interactivity.",
+      "muiDesc": "A React component library that provides robust and customizable elements in line with Material Design.",
+      "viteDesc": "A next-generation frontend tooling that offers lightning-fast cold starts and instant hot module replacement during development.",
+      "i18nextDesc": "A flexible internationalization framework, enabling easy translation of the application into multiple languages."
+    },
+    "author": {
+      "sectionTitle": "About The Project",
+      "namePlaceholder": "Štěpán Bříza",
+      "summary": "This Schedule Planner was created as as term project fo KIV/UUR course with the aim of simplifying students' organization of their academic life and to learn React.",
+      "githubButton": "Project on GitHub"
+    }
+  },
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is the purpose of this application?",
+    "a1": "The application allows UWB students to plan their course schedule before official enrollment, helping them to optimize their time. [cite: 2, 3]",
+    "q2": "Who is this application for?",
+    "a2": "Primarily for students of the University of West Bohemia in Pilsen who can create their own schedule. [cite: 6]"
+  },
+  "editorPage": {
+    "title": "Schedule Editor"
+  },
+  "courseEvent": {
+    "lecture": "Lecture",
+    "practical": "Practical",
+    "seminar": "Seminar",
+    "exam": "Exam",
+    "credit": "Credit",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "everyWeek": "Every week",
+    "evenWeek": "Even week",
+    "oddWeek": "Odd week"
+  }
+}
