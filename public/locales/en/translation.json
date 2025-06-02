@@ -70,9 +70,6 @@
     "q2": "Who is this application for?",
     "a2": "Primarily for students of the University of West Bohemia in Pilsen who can create their own schedule. [cite: 6]"
   },
-  "editorPage": {
-    "title": "Schedule Editor"
-  },
   "courseEvent": {
     "lecture": "Lecture",
     "practical": "Practical",
@@ -89,5 +86,14 @@
     "everyWeek": "Every week",
     "evenWeek": "Even week",
     "oddWeek": "Odd week"
+  },
+  "editorPage": {
+    "title": "Schedule Editor",
+    "mobileDrawer": {
+      "coursesTitle": "Courses",
+      "propertiesTitle": "Preferences",
+      "coursesTab": "Courses",
+      "propertiesTab": "Preferences"
+    }
   }
 }

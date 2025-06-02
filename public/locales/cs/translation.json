@@ -70,9 +70,6 @@
     "q2": "Pro koho je aplikace určena?",
     "a2": "Primárně pro studenty Západočeské univerzity v Plzni, kteří si mohou svůj rozvrh sestavovat sami."
   },
-  "editorPage": {
-    "title": "Editor Rozvrhu"
-  },
   "courseEvent": {
     "lecture": "Přednáška",
     "practical": "Cvičení",
@@ -89,5 +86,14 @@
     "everyWeek": "Každý týden",
     "evenWeek": "Sudý týden",
     "oddWeek": "Lichý týden"
+  },
+  "editorPage": {
+    "title": "Editor Rozvrhu",
+    "mobileDrawer": {
+      "coursesTitle": "Kurzy",
+      "propertiesTitle": "Preference",
+      "coursesTab": "Kurzy",
+      "propertiesTab": "Preference"
+    }
   }
 }
