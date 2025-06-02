@@ -26,7 +26,7 @@ function PreferenceList({
     // const sortedPreferences = [...preferences].sort((a, b) => a.priority - b.priority);
 
     return (
-        <Box sx={{ pt: 0.5 }}> {/* Malý padding nahoře seznamu */}
+        <Box sx={{ pt: 0.5, overflowY:"auto", overflowX:"hidden",  }}> {/* Malý padding nahoře seznamu */}
             {preferences.map((preference, index) => (
                 <PreferenceItem
                     key={preference.id}
